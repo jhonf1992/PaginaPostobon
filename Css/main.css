@@ -1,6 +1,6 @@
 .cuerpo{
     width: 100hw;
-    background: url("./Images/postobon-2.png");
+    background: url("../Images/postobon-2.png");
     background-attachment: fixed;
     background-position: center 19vh;
     background-repeat: no-repeat;
@@ -54,6 +54,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 5px;
+    margin-bottom: 20px;
 
 }
 .buttom:hover{
