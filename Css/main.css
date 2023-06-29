@@ -1,0 +1,62 @@
+.cuerpo{
+    width: 100hw;
+    background: url("/Images/postobon-2.png");
+    background-attachment: fixed;
+    background-position: center 19vh;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuerpo-titulo{
+    font-size: 5rem;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 23vh;
+}
+
+.cuerpo-titulo2{
+    text-align: center;
+    margin: 20px;
+    color: aliceblue;
+    font-size: 2rem;
+    width: 70%;
+}
+.cuerpo-descripcion{
+    color: azure;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.tenderos{
+    display: flex;
+    width: 90vw;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.tenderos-imagen{
+    width: 20rem;
+    height: auto;
+    margin: 2vw;
+    border-radius: 5px;
+
+}
+.buttom{
+    font-size: 1.2rem;
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: blueviolet;
+    width: 10vw;
+    height: 5vh;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+
+}
+.buttom:hover{
+    background-color: rgb(80, 15, 142);
+    transition: .3s;
+}
