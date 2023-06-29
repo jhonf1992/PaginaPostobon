@@ -1,0 +1,15 @@
+.cuerpo-quienes{
+    display: flex;
+    width: 100%;
+}
+
+.quienes-slider{
+    display: flex;
+
+}
+
+.slider-imagenes{
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: nowrap;
+}
