@@ -1,0 +1,17 @@
+.quienes-descripcion{
+    width: 50%;
+    margin: 4rem;
+}
+
+
+.quienes-descripcion-titulo{
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 2.5rem;
+    color: #ff0300;
+}
+
+.quienes-descripcion-descripcion{
+    font-size: 1.2rem;
+    color: grey;
+}

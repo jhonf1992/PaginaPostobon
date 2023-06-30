@@ -1,0 +1,17 @@
+.cuerpo{
+    display: flex;
+    flex-direction: column;
+    padding-top: 200px;
+    background-color: gainsboro;
+}
+
+.cuerpo-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    margin: 2rem;
+    font-weight: bold;
+    color: #93008f;
+    text-shadow: 3px 3px 2px #6a0466;
+}
