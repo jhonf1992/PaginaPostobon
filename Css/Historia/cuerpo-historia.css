@@ -1,0 +1,65 @@
+.cuerpo-historia{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    padding-top: 10rem;
+    justify-content: center;
+    align-items: center;
+    background-color: #d2d4cf99 ;
+}
+
+.historia-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: #c60ed0;
+    text-shadow: 5px 5px 1px #5c07a73d;
+    width: 100%;
+    height: 8rem;
+    font-size: 6rem;
+    
+}
+
+.historia-fechas{
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.fechas{
+    margin: 1rem;
+    width: 30rem;
+    height: 40rem;
+    background-color: rgba(158, 153, 158, 0.297);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 2rem;
+    
+}
+
+.fecha-img{
+    display: flex;
+    object-fit: cover;
+    width: 25rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    aspect-ratio: 1 / 1;
+}
+.fechas-fecha{
+    font-size: 3rem;
+    color: #f327a0;
+    font-weight: 500;
+}
+
+.fecha-titulo{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color:#ff0300;
+    font-weight: 500;
+}
