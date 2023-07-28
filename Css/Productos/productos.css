@@ -74,15 +74,17 @@
     text-align: center;
     font-weight: bold;
     color: #f327a0;
+    margin-top: 10px;
 }
 .precio-producto{
     font-size: 1.2rem;
     color: #fb9d1c;
     font-weight: bold;
+    margin-top: 10px;
 }
 .stock-producto{
     font-size: 0.8rem;
     font-weight: 500;
     color: #64d30adb;
-    
+    margin-top: 10px;
 }
